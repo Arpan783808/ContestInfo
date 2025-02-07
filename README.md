@@ -2,6 +2,7 @@
 
 Track, compare, and improve your coding performance on **LeetCode** & **Codeforces** with automated weekly progress tracking!
 
+Deployed Link: https://contestinfo-eight.vercel.app/
 ## Overview  
 The **Competitive Programming Performance Tracker** is a full-stack application that automates **weekly performance tracking** for users on **LeetCode** and **Codeforces**.  
 It fetches **real-time contest stats, problem-solving history, and rating changes**, then calculates a **weekly score** to rank users and provide insightful feedback.
